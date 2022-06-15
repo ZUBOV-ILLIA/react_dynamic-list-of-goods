@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,eACE,eAAgB,CAChB,YAAa,CACb,4BAA6B","file":"main.c8d24c81.chunk.css","sourcesContent":[".btn-container {\n  max-width: 500px;\n  display: flex;\n  justify-content: space-around;\n}\n"]}
